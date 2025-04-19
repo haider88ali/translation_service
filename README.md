@@ -18,6 +18,11 @@ A Laravel-powered API for managing multilingual translations with support for ta
 
 ---
 
+### Design Pattern
+
+I have use Service Repository Pattern that separates business logic from data access concerns, promoting modularity and maintainability. It involves two main layers: a Service layer that handles business logic and a Repository layer that manages data access. This separation allows for better code organization, easier testing, and improved flexibility in adapting to changes in either the business logic or data storage mechanism
+
+
 ### Requirements
 PHP 8.1+
 
