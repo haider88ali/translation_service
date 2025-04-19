@@ -8,6 +8,7 @@ A Laravel-powered API for managing multilingual translations with support for ta
 
 - **Token-based authentication** using Laravel Sanctum
 -  **CRUD operations** for translations
+-  **Service Repository Pattern** for modularity and maintainability
 -  **Multi-locale support**
 -  **Tag-based filtering**
 -  **Search** by key, content, or tag
